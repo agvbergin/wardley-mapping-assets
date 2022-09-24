@@ -117,3 +117,7 @@ Table displaying Wardley's Doctrine, universally useful patterns that a user can
          <td>Use appropriate methods</td>
         </tr>
        </table>       
+
+### csv file
+
+[Link to csv file.](doctrine-purkisvar.csv)
