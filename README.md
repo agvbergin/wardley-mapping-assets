@@ -66,7 +66,6 @@ Table displaying Wardley's Doctrine, universally useful patterns that a user can
 
 ![Link to HTML table file](doctrine-purkisvar.html)
 
-```html
 <table>
         <caption>Wardley's Doctrine (universally useful patterns that a user can apply regardless of context)</caption>
         <tr>
@@ -162,4 +161,4 @@ Table displaying Wardley's Doctrine, universally useful patterns that a user can
          <td>Use appropriate methods</td>
         </tr>
        </table>       
-```
+
